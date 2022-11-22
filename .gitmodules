@@ -1,0 +1,3 @@
+[submodule "private-submodule-1"]
+	path = private-submodule-1
+	url = git@github.com:sumedha-bhatt/private-submodule-1.git
